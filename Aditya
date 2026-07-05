@@ -1,0 +1,3 @@
+git add .
+git commit -m "Force Node.js runtime - removed Python detection"
+git push origin main --force
